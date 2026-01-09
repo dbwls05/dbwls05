@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/dbwls05-skyblue?style=flat&logo=github&logoColor=white"/>
   's page
 </h2>
-
 <p align="center">
 보이는 가치를 만드는 개발자 조유진입니다!
 </p>
@@ -32,6 +31,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dbwls05&layout=compact&langs_count=6&theme=tokyonight"/>
+  
 </p>
 
 
@@ -52,9 +52,4 @@
 
 
 
----
-### 🐍 My GitHub Trail
 
-<p align="center">
-<img src="https://github.com/dbwls05/dbwls05/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</p>
