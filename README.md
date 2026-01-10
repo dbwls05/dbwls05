@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20&height=220&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1,11,12&height=220&section=header&text=Hello%20World&fontSize=56&fontColor=fafafa&animation=fadeIn" />
 </div>
+
+
+
 
 
 
@@ -29,10 +32,23 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dbwls05&layout=compact&langs_count=6&theme=tokyonight"/>
-  
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=dbwls05&show_icons=true&theme=tokyonight"
+        height="170"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dbwls05&layout=compact&langs_count=6&theme=tokyonight"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
@@ -48,8 +64,12 @@
 </div>
 
 
-
-
+---
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dbwls05"/>
+</a>
+</div>
 
 
 
