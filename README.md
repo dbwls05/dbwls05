@@ -3,11 +3,6 @@
 </div>
 
 
-
-
-
-
-
 <h2 align="center">
   Welcome to 
   <img src="https://img.shields.io/badge/dbwls05-skyblue?style=flat&logo=github&logoColor=white"/>
@@ -32,22 +27,21 @@
 ---
 
 ### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center">
+<div align="center" display="flex">
+    <div align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api?username=dbwls05&show_icons=true&theme=tokyonight"
         height="170"
       />
-    </td>
-    <td align="center">
+    </div>
+    <div align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dbwls05&layout=compact&langs_count=6&theme=tokyonight"
         height="170"
       />
-    </td>
-  </tr>
-</table>
+    </div>
+    
+</div>
 
 
 
