@@ -12,10 +12,10 @@
 보이는 가치를 만드는 개발자 조유진입니다!
 </p> -->
 
----
+
 
 ### 🛠 Learning
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Java-e08f00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,13 +23,18 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-ed8600?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p> -->
+
+<img src="https://skillicons.dev/icons?i=java,c,python,mysql&theme=dark" /> <hr>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><hr>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,figma,notion&theme=dark" /><hr>
 
 
 
-</p>
-
----
-
+<!-- 
 ### 📊 GitHub Stats
 
 <table align="center">
@@ -42,12 +47,8 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
 ---
+-->
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/dbwls05"/>
