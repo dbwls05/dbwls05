@@ -1,20 +1,27 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1,11,12&height=220&section=header&text=Hello%20World!&fontSize=56&fontColor=fafafa&animation=fadeIn" />
-</div>
-
-
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1,11,12&height=220&section=header&text=Hello%20World!&fontSize=56&fontColor=fafafa&animation=fadeIn&borderColor=red" />
+</div> -->
 <h2 align="center">
   Welcome to 
   <img src="https://img.shields.io/badge/dbwls05-skyblue?style=flat&logo=github&logoColor=white"/>
   's page
 </h2>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbwls05&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
+
+
+
+
 <!-- <p align="center">
 보이는 가치를 만드는 개발자 조유진입니다!
 </p> -->
 
 
 
-### 🛠 Learning
+
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Java-e08f00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -25,13 +32,26 @@
   <img src="https://img.shields.io/badge/MySQL-ed8600?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p> -->
 
-<img src="https://skillicons.dev/icons?i=java,c,python,mysql&theme=dark" /> <hr>
+---
+### Languages
+<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><hr>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+### Database & Backend
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,figma,notion&theme=dark" /><hr>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,figma,notion&theme=dark" />
 
+---
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dbwls05"/>
+</a>
+</div>
 
 
 <!-- 
@@ -49,11 +69,7 @@
 </table>
 ---
 -->
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dbwls05"/>
-</a>
-</div>
+
 
 
 
